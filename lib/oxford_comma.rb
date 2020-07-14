@@ -1,4 +1,5 @@
 def oxford_comma(array)
-  "kiwi".split
+  array = [kiwi]
+  kiwi << oxford_comma.join 
 
 end
