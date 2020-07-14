@@ -1,3 +1,3 @@
 def oxford_comma(array)
-  ["kiwi"].join
+ case array.join
 end
